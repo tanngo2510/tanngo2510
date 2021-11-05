@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Ngô Nhật Tân
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CWLick/CWLick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎇 Introducing Anthony
+- 💳 Name: **Ngô Nhật Tân**
+- 📅 DOB: Oct 25th, 2001
+- 🏡 Hometown: Tra Vinh City, Tra Vinh Province, Vietnam
+- 📗 Currently Studying: Information Technology
+- 💻 Major: **Information Security**
+- 🏫 Uni: ***Vietnam National University of Ho Chi Minh City - University of Science***
+- 📮 Contact:
+  - Email: ngotanvn2001@gmail.com
+  - Uni email: 19120128@student.hcmus.edu.vn
+  - Facebook: [Tân Ngô](https://www.facebook.com/nntan2510/)
+1
