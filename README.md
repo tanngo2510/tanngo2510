@@ -1,4 +1,4 @@
-### 🎇 Introducing Anthony
+### 🎇 Introducing
 - 💳 Name: **Ngô Nhật Tân**
 - 📅 DOB: Oct 25th, 2001
 - 🏡 Hometown: Tra Vinh City, Tra Vinh Province, Vietnam
