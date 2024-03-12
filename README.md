@@ -3,6 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanngo2510&label=Profile%20views&color=0e75b6&style=flat" alt="tanngo2510" /> </p> -->
 <p align="center"><a href="https://github.com/Platane/snk"><img src="https://raw.githubusercontent.com/tanngo2510/tanngo2510/output/github-contribution-grid-snake.svg"></a></p>
+<p>This has an error, but I'm too lazy to fix this :P</p>
 <h3 align="center">Visitor count</h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/tanngo2510/count.svg" />
