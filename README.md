@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngô Nhật Tân</h1>
 <h3 align="center">Student at the University of Sciences, Ho Chi Minh City, Vietnam</h3>
 
-Github này tạm ngừng sử dụng trong một khoảng thời gian. Hiện tôi đang làm bên github: <a href="https://github.com/hexros-dev/">Hexros</a>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanngo2510&label=Profile%20views&color=0e75b6&style=flat" alt="tanngo2510" /> </p> -->
 <p align="center"><a href="https://github.com/Platane/snk"><img src="https://raw.githubusercontent.com/tanngo2510/tanngo2510/output/github-contribution-grid-snake.svg"></a></p>
 <p>This snake has an error, but I'm too lazy to fix it 😅</p>
